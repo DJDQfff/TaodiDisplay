@@ -33,9 +33,12 @@
       https://aka.platform.uno/singleproject-features
     -->
     <UnoFeatures>
-      Mvvm;
+      Mvvm;Svg;
     </UnoFeatures>
   </PropertyGroup>
+  <ItemGroup>
+    <Content Include="陶笛指法图标.svg" />
+  </ItemGroup>
   <ItemGroup>
     <Page Update="TaodiIcon.xaml">
       <Generator>MSBuild:Compile</Generator>

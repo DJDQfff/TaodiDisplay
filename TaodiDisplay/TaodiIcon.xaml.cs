@@ -27,22 +27,22 @@ public sealed partial class TaodiIcon : UserControl
     public int Index
     {
         get => index;
-        private set
+        set
         {
             index = value;
-            var uri = "ms-appx:Assets/taodi/taodi" + value + ".svg";
+            var uri = "ms-appx:Assets/taodi/Svg/taodi" + value + ".svg";
             SvgImageSource svg = new(new Uri(uri));
             image.Source = svg;
         }
     }
 
-    public TaodiIcon ([Range(0 , 21)] int version)
+    public TaodiIcon([Range(0, 21)] int version)
         : this()
     {
         Index = version;
     }
 
-    public TaodiIcon ()
+    public TaodiIcon()
     {
         this.InitializeComponent();
     }
