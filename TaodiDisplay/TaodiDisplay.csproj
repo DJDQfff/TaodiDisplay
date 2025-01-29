@@ -36,5 +36,10 @@
       Mvvm;
     </UnoFeatures>
   </PropertyGroup>
+  <ItemGroup>
+    <Page Update="TaodiIcon.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
 
 </Project>

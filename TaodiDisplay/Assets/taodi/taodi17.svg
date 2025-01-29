@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" width="82.137947mm" height="70.682205mm" viewBox="0 0 82.137947 70.682205" version="1.1" id="svg1" p3:version="1.4 (86a8ad7, 2024-10-11)" p4:docname="陶笛指法图标.svg" p3:export-filename="陶笛指法图标.png" p3:export-xdpi="96" p3:export-ydpi="96" xmlns:p4="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:p3="http://www.inkscape.org/namespaces/inkscape" xmlns="http://www.w3.org/2000/svg">
+  <p4:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" p3:showpageshadow="2" p3:pageopacity="0.0" p3:pagecheckerboard="0" p3:deskcolor="#d1d1d1" p3:document-units="mm" p3:zoom="1.9099422" p3:cx="150.52812" p3:cy="120.1607" p3:window-width="1857" p3:window-height="1057" p3:window-x="55" p3:window-y="-8" p3:window-maximized="1" p3:current-layer="g1" showgrid="false" />
+  <defs id="defs1">
+    <linearGradient id="swatch1" p3:swatch="solid">
+      <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0" id="stop1" />
+    </linearGradient>
+  </defs>
+  <g p3:label="图层 1" p3:groupmode="layer" id="layer1" transform="translate(-70.743659,-41.101238)">
+    <path style="fill:#705050;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" d="m 148.5,50.544855 c 19.68054,-21.707153 -37.13162,-1.161701 -67.784961,25.468338 -24.343585,21.148447 5.093669,21.354222 5.093669,21.354222 8.194623,-1.473406 17.338062,9.109835 17.338062,9.109835 13.71372,13.5178 12.4403,-4.79981 12.4403,-4.79981 0,0 -1.37137,-14.203495 7.44459,-22.137863 C 133.94823,69.714659 148.5,50.544855 148.5,50.544855 Z" id="path13" p4:nodetypes="cscccsc" />
+    <g id="g1" transform="translate(1.662354,-1.8008835)">
+      <circle style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path2" cx="82.672104" cy="84.817268" r="3.6981635" />
+      <circle style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path3" cx="89.598579" cy="77.059616" r="3.6981635" />
+      <circle style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path4" cx="97.633293" cy="71.241379" r="3.6981635" />
+      <circle style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path5" cx="105.80653" cy="65.561668" r="3.6981635" />
+      <circle style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path8" cx="119.798" cy="76.505501" r="3.6981635" />
+      <circle style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path9" cx="127.14008" cy="68.886375" r="3.6981635" />
+      <circle style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path10" cx="132.95831" cy="61.9599" r="3.6981635" />
+      <circle style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path11" cx="138.91508" cy="54.894897" r="3.6981635" />
+      <circle style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path1" cx="88.490341" cy="104.34993" r="3.6981635" />
+      <circle style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path7" cx="124.23095" cy="88.557564" r="3.6981635" />
+      <circle style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path6" cx="94.58564" cy="82.323746" r="2.2525206" />
+      <circle style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path12" cx="121.1833" cy="64.176384" r="1.9896765" />
+    </g>
+  </g>
+</svg>
