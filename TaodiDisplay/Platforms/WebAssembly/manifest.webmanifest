@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "TaodiDisplay",
+  "display": "standalone",
+  "name": "TaodiDisplay",
+  "short_name": "TaodiDisplay",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
