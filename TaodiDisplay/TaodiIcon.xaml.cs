@@ -30,11 +30,14 @@ public sealed partial class TaodiIcon : UserControl
         set
         {
             index = value;
-            var uri = "ms-appx:Assets/taodi/Svg/taodi" + value + ".svg";
+            var uri = "ms-appx:Assets/taodi/svg/taodi" + value + ".svg";
             SvgImageSource svg = new(new Uri(uri));
             image.Source = svg;
         }
     }
+
+    public TaodiIcon(Core.ZiRanYinJip start, int version)
+        : this() { }
 
     public TaodiIcon([Range(0, 21)] int version)
         : this()

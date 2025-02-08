@@ -6,12 +6,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
     <ScrollViewer>
         <Grid>
-            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
-                <TextBlock
-                    HorizontalAlignment="Center"
-                    AutomationProperties.AutomationId="HelloTextBlock"
-                    Text="Hello Uno Platform!" />
-                <local:TaodiIcon Index="5" Width="100" Height="100" />
+            <StackPanel x:Name="stackpanel" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
             </StackPanel>
         </Grid>
     </ScrollViewer>

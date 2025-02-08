@@ -5,8 +5,10 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:local="using:TaodiDisplay"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    d:DesignHeight="300"
-    d:DesignWidth="400"
+    d:DesignHeight="60"
+    d:DesignWidth="80"
+    Height="60"
+    Width="80"
     mc:Ignorable="d">
 
     <Grid>

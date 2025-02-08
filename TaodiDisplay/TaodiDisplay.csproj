@@ -40,9 +40,75 @@
     <Content Include="陶笛指法图标.svg" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\NMNEditor\Core\Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="TaodiIcon.xaml">
       <Generator>MSBuild:Compile</Generator>
     </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi0.svg" Link="Assets\taodi\svg\taodi0.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi17.svg" Link="Assets\taodi\svg\taodi17.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi2.svg" Link="Assets\taodi\svg\taodi2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi16.svg" Link="Assets\taodi\svg\taodi16.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi8.svg" Link="Assets\taodi\svg\taodi8.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi18.svg" Link="Assets\taodi\svg\taodi18.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi15.svg" Link="Assets\taodi\svg\taodi15.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi7.svg" Link="Assets\taodi\svg\taodi7.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi4.svg" Link="Assets\taodi\svg\taodi4.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi6.svg" Link="Assets\taodi\svg\taodi6.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi9.svg" Link="Assets\taodi\svg\taodi9.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi1.svg" Link="Assets\taodi\svg\taodi1.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi12.svg" Link="Assets\taodi\svg\taodi12.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi14.svg" Link="Assets\taodi\svg\taodi14.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi5.svg" Link="Assets\taodi\svg\taodi5.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi19.svg" Link="Assets\taodi\svg\taodi19.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi20.svg" Link="Assets\taodi\svg\taodi20.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi10.svg" Link="Assets\taodi\svg\taodi10.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi11.svg" Link="Assets\taodi\svg\taodi11.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi13.svg" Link="Assets\taodi\svg\taodi13.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <UnoImage Update="Assets\taodi\taodi3.svg" Link="Assets\taodi\svg\taodi3.svg" />
   </ItemGroup>
 
 </Project>

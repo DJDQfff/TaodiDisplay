@@ -16,6 +16,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1936690C-E320-4A8D-A4EB-D5D09F9455DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaodiZhifa", "TaodiZhifa\TaodiZhifa.csproj", "{FAB6B3E1-8D96-408F-AB82-6FD1B7BDB533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\NMNEditor\Core\Core.csproj", "{B707B1A2-213C-4179-BE73-DFDBB2B22404}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +36,14 @@ Global
 		{1936690C-E320-4A8D-A4EB-D5D09F9455DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1936690C-E320-4A8D-A4EB-D5D09F9455DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1936690C-E320-4A8D-A4EB-D5D09F9455DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB6B3E1-8D96-408F-AB82-6FD1B7BDB533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB6B3E1-8D96-408F-AB82-6FD1B7BDB533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB6B3E1-8D96-408F-AB82-6FD1B7BDB533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB6B3E1-8D96-408F-AB82-6FD1B7BDB533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B707B1A2-213C-4179-BE73-DFDBB2B22404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B707B1A2-213C-4179-BE73-DFDBB2B22404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B707B1A2-213C-4179-BE73-DFDBB2B22404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B707B1A2-213C-4179-BE73-DFDBB2B22404}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
