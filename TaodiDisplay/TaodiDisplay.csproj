@@ -110,5 +110,15 @@
   <ItemGroup>
     <UnoImage Update="Assets\taodi\taodi3.svg" Link="Assets\taodi\svg\taodi3.svg" />
   </ItemGroup>
+  <ItemGroup>
+    <Page Update="BlankPage1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="BlankPage2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
 
 </Project>

@@ -39,7 +39,7 @@ public sealed partial class TaodiIcon : UserControl
     public TaodiIcon(Core.ZiRanYinJip start, int version)
         : this() { }
 
-    public TaodiIcon([Range(0, 21)] int version)
+    public TaodiIcon([Range(0, 22)] int version)
         : this()
     {
         Index = version;
